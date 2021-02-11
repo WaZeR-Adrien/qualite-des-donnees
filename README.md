@@ -141,7 +141,7 @@ Pour toutes valeurs non numériques, on essaie dans un premier temps de les tran
 Dans un second temps, pour les valeurs qui n'ont pas pu être transformées, nous définissons la température à la moyenne de la température du jour précédent et suivant.
 Les données corrigées s'approchent des données correctes. La différence la plus élevée est de 1.5°C.
 
-### La capital dont on a eu les données
+### Capitale des données
 En comparant les écarts, nous nous apercevons que les périodes chaudes et froides correspondent à notre jeux de données. Nous pouvons en conclure qu'il s'agit des températures d'une même zone géographique. Au vu de la localisation de la station, il doit d'agir de la capitale Helsinki.
 
 ## Conclusion
